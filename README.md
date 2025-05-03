@@ -132,6 +132,4 @@ All variables cleared.
 
 A passionate coder, constantly exploring new technologies and improving skills in various programming languages. This project demonstrates my skills in C++, data structures, and mathematical operations.
 
----
 
-Feel free to contribute or provide suggestions to make this project even better!
